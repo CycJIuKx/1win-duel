@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'PequenaPro-Ornament';
+    src: url('PequenaPro-Ornament.eot');
+    src: local('Pequena Pro Ornament'), local('PequenaPro-Ornament'),
+        url('PequenaPro-Ornament.eot?#iefix') format('embedded-opentype'),
+        url('PequenaPro-Ornament.woff2') format('woff2'),
+        url('PequenaPro-Ornament.woff') format('woff'),
+        url('PequenaPro-Ornament.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PequenaPro-LayerOne';
+    src: url('PequenaPro-LayerOne.eot');
+    src: local('Pequena Pro Layer One'), local('PequenaPro-LayerOne'),
+        url('PequenaPro-LayerOne.eot?#iefix') format('embedded-opentype'),
+        url('PequenaPro-LayerOne.woff2') format('woff2'),
+        url('PequenaPro-LayerOne.woff') format('woff'),
+        url('PequenaPro-LayerOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PequenaPro-Shape';
+    src: url('PequenaPro-Shape.eot');
+    src: local('Pequena Pro Shape'), local('PequenaPro-Shape'),
+        url('PequenaPro-Shape.eot?#iefix') format('embedded-opentype'),
+        url('PequenaPro-Shape.woff2') format('woff2'),
+        url('PequenaPro-Shape.woff') format('woff'),
+        url('PequenaPro-Shape.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PequenaPro';
+    src: url('PequenaPro-Regular.eot');
+    src: local('Pequena Pro'), local('PequenaPro-Regular'),
+        url('PequenaPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PequenaPro-Regular.woff2') format('woff2'),
+        url('PequenaPro-Regular.woff') format('woff'),
+        url('PequenaPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
